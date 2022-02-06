@@ -1,0 +1,182 @@
+
+body {
+	margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	margin: 0;
+	padding: 0;
+}
+
+p {
+	margin: 0;
+	padding: 0;
+}
+
+.container {
+	width: 100%;
+	max-width: 1170px;
+	margin: 0 auto;
+}
+
+.header {
+	width: 1349.4px;
+}
+
+.logo {
+	position: absolute;
+	margin-top: 5px;
+	
+}
+
+.logom {
+	font-family: 'Questrial', sans-serif;
+	font-size: 30px;
+	color: #000;
+	position: absolute;
+	margin-left: 70px;
+	margin-top: 15px;
+	
+}
+
+.trani {
+	font-style: italic;
+	font-size: 35px;
+	font-family: 'Prompt', sans-serif;
+	font-weight: 300;
+	color: #000;
+	margin-top: 50px;
+	float: right;
+	
+}
+
+.appli {
+	position: absolute;
+	color: #000;
+	font-family: 'Prompt', sans-serif;
+	font-weight: 500;
+	font-size: 30px;
+	margin-top: 111px;
+	margin-left: 6px;
+}
+
+.applic {
+	color: #000;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 500;
+	font-size: 30px;
+	position: absolute;
+	margin-top: 204px;
+
+}
+
+.applic p {
+	margin-bottom: 15px;
+}
+
+.city {
+	background-color: #DCDCDC;
+	color: #000;
+	border: 0px;
+	width: 235px;
+	height: 37px;
+	font-size: 20px;
+	margin-left: 18px;
+	border-radius: 9px;
+}
+
+
+
+.mail {
+	background-color: #DCDCDC;
+	color: #000;
+	border: 0px;
+	width: 235px;
+	height: 37px;
+	font-size: 20px;
+	margin-left: 18px;
+	border-radius: 9px;
+}
+
+.time {
+	background-color: #DCDCDC;
+	color: #000;
+	border: 0px;
+	width: 235px;
+	height: 37px;
+	font-size: 20px;
+	margin-left: 18px;
+	border-radius: 9px;
+}
+.name {
+	background-color: #DCDCDC;
+	color: #000;
+	border: 0px;
+	width: 235px;
+	height: 37px;
+	font-size: 20px;
+	margin-left: 18px;
+	border-radius: 9px;
+}
+
+.pn {
+	background-color: #DCDCDC;
+	color: #000;
+	border: 0px;
+	width: 235px;
+	height: 37px;
+	font-size: 20px;
+	margin-left: 18px;
+	border-radius: 9px;
+}
+
+.cit {
+	display: flex;
+	margin-bottom: 5px;
+}
+
+.mai {
+	display: flex;
+	margin-bottom: 5px;
+}
+
+.tim {
+	display: flex;
+	margin-bottom: 5px;
+}
+
+.nam {
+	display: flex;
+	margin-bottom: 5px;
+}
+
+.phh {
+	display: flex;
+	margin-bottom: 5px;
+}
+
+.car {
+	float: right;
+	margin-top: 159px;
+}
+
+.btnn {
+	color: #374BFF;
+	border: 2px solid #374BFF;
+	border-radius: 90px;
+	text-decoration: none;
+	padding: 6px 70px;
+	font-family: 'Prompt', sans-serif;
+	font-weight: 400;
+	font-size: 25px;
+	position: absolute;
+	margin-top: 524px;
+	transition: all 0.5s ease;
+	
+}
+
+.btnn:hover {
+	background: #374BFF;
+	border: 2px solid #374BFF;
+	color: #fff;
+}
